@@ -7,4 +7,4 @@ On the first computer, run either "Chat System Server.bat" or "Chat System Serve
 
 On the second computer, run either "Chat System Client.bat" or "Chat System Client.sh", depending on your operating system. Alternatively, run "Chat System Client.jar" from your command prompt or bash shell. Enter the IP Address and Port provided by the first computer.
 
-At this point, a window will show up. Enter a message in the bottom field and press Enter to send it. Messages from your chat partner will show up in the top box. Your own messages will show up as well, with a caret (\>) in front of them.
+At this point, a window will show up. Enter a message in the bottom field and press Enter to send it. Messages from your chat partner will show up in the top box. Your own messages will show up as well, with a caret (>) in front of them.
